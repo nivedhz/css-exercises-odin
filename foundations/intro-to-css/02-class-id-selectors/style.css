@@ -1,7 +1,7 @@
 /* Add CSS Styling */
 .odd{
     background: hsl(342, 64%, 63%);
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 #second-element{
     color: #067cca;
